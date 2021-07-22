@@ -2,7 +2,9 @@
 
 ## A walk through the Google Africa Developer Scholarship 2021
 
-## Day 1: Started phase1 with a study plan and a breaking down the courses.
+![GADS_flyer](assets/Google-Africa-Developer-Scholarship-flyer.png)
+
+## Day 1: Started phase1 with a study plan and a breaking down of the courses.
 
 ## Day 2: Cloud Computing
 **Covered :** Aspects of Cloud Computing
