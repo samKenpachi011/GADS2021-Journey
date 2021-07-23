@@ -29,6 +29,21 @@
  * Lab: Tour Qwiklabs and the Google Cloud Platform.
 
 
+## Day 5: Preparing for the ACE Exam
+**Managed to do a review of deploying and implementing a cloud solution :**
+
+## Day 6: Preparing for the ACE Exam
+**Covered :**
+ * **Deploying and implementing a cloud solution the tasks that are required. :**
+    * Deploying and implementing compute engine resources.
+    * Deploying and implementing kubernetes engine resources.
+    * Deploying and implementing App Engine and Cloud functions resources.
+    * Deploying and implementing Data solutions.
+    * Deploying and implementing Networking resources.
+    * Using the cloud marketplace and deployment manager.
+ * Lab: Setting Up Network and HTTP Load Balancers.
+
+
  
 
 
