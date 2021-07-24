@@ -43,6 +43,16 @@
     * Using the cloud marketplace and deployment manager.
  * Lab: Setting Up Network and HTTP Load Balancers.
 
+## Day 7: Preparing for the ACE Exam
+**Covered :**
+ * **Ensuring the successful operation of a cloud solution **
+    * Managing compute engine resources
+    * Managing GKE resources
+    * Managing App Engine resources
+    * Managing Data solutions
+    * Managing Networking resources
+    * Monitoring and logging using Cloud Monitoring
+
 
  
 
