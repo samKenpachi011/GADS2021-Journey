@@ -52,6 +52,7 @@
     * Managing Data solutions
     * Managing Networking resources
     * Monitoring and logging using Cloud Monitoring
+ * Lab: Deployment Manager Full-Production  
 
 
  
