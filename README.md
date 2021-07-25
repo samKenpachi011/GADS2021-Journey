@@ -52,7 +52,15 @@
     * Managing Data solutions
     * Managing Networking resources
     * Monitoring and logging using Cloud Monitoring
- * Lab: Deployment Manager Full-Production  
+ * Lab: Deployment Manager Full-Production 
+
+## Day 8: Preparing for the ACE Exam + Essential Google Cloud Infrastructure-Foundations
+**Covered :**
+ * Configuring cloud access and security
+ * Managing Identity and Access management
+ * IAM roles
+ * Service Accounts and cloud monitoring viewing project audit logs
+ * Introduction to google cloud infrastructure-foundations  
 
 
  
