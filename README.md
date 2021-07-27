@@ -45,7 +45,7 @@
 
 ## Day 7: Preparing for the ACE Exam
 **Covered :**
- * **Ensuring the successful operation of a cloud solution **
+ * **Ensuring the successful operation of a cloud solution 💯**
     * Managing compute engine resources
     * Managing GKE resources
     * Managing App Engine resources
@@ -61,6 +61,21 @@
  * IAM roles
  * Service Accounts and cloud monitoring viewing project audit logs
  * Introduction to google cloud infrastructure-foundations  
+
+## Day 9: Essential Google Cloud Infrastructure-Foundations
+**Covered :**
+ * Using the Cloud Console
+ * Using the Cloud Shell
+ * Lab: Console and Cloud Shell v1.5
+
+## Day 10: Essential Google Cloud Infrastructure-Foundations
+**Covered :**
+ * Lab: Infrastructure Preview
+ * Virtual Machines
+ * Compute Engine
+ * VMs (compute, storage, networking)
+ * Lifecyle of VMs
+
 
 
  
