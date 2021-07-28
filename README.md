@@ -76,6 +76,16 @@
  * VMs (compute, storage, networking)
  * Lifecyle of VMs
 
+## Day 11: Essential Google Cloud Infrastructure-Foundations
+**Covered :**
+ * VMs Pricing (Sustained Discount, preembtible VMs)
+ * In depth look into images (puplic and custom)
+ * Disks (boot disks and persistent disks(HDD, SSD) )
+ * Configuration (Sole tenancy and shielded VMs)
+ * Compute options (vCPUs, GPUs)
+ * MetaData scripts and moving instances 
+ * Creating snapshots and a snapshot service
+
 
 
  
