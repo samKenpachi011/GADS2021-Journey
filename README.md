@@ -86,6 +86,10 @@
  * MetaData scripts and moving instances 
  * Creating snapshots and a snapshot service
 
+ ## Day 12: Rest day 😪
+
+ ## Day 13: Rest day 😪
+
 
 
  
