@@ -34,7 +34,7 @@
 
 ## Day 6: Preparing for the ACE Exam
 **Covered :**
- * **Deploying and implementing a cloud solution the tasks that are required. :**
+ * **Deploying and implementing a cloud solution the tasks that are required :**
     * Deploying and implementing compute engine resources.
     * Deploying and implementing kubernetes engine resources.
     * Deploying and implementing App Engine and Cloud functions resources.
@@ -45,7 +45,7 @@
 
 ## Day 7: Preparing for the ACE Exam
 **Covered :**
- * **Ensuring the successful operation of a cloud solution 💯**
+ * **Ensuring the successful operation of a cloud solution :**
     * Managing compute engine resources
     * Managing GKE resources
     * Managing App Engine resources
@@ -89,6 +89,18 @@
  ## Day 12: Rest day 😪
 
  ## Day 13: Rest day 😪
+
+ ## Day 14: Essential Google Cloud Infrastructure-Core Services
+ **Covered : After some much need rest** 😃
+  * Cloud IAM
+  * Resource Hierarchy
+  * Roles (basic,predefines, custom)
+  * Service Accounts
+  * Members
+  * Cloud Identity Aware Proxy
+  * Cloud IAM best practices
+
+
 
 
 
