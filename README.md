@@ -100,6 +100,13 @@
   * Cloud Identity Aware Proxy
   * Cloud IAM best practices
 
+## Day 15: Essential Google Cloud Infrastructure-Core Services 
+**Covered :**
+ * Cloud Storage (Storage classes, Services, File Store)
+ * Choosing a storage service
+ * Resource Management (Quotas, Labels, Billing )
+
+
 
 
 
