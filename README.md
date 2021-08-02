@@ -91,7 +91,7 @@
  ## Day 13: Rest day 😪
 
  ## Day 14: Essential Google Cloud Infrastructure-Core Services
- **Covered : After some much need rest** 😃
+ **Covered : After some much needed rest** 😃
   * Cloud IAM
   * Resource Hierarchy
   * Roles (basic,predefines, custom)
@@ -105,6 +105,15 @@
  * Cloud Storage (Storage classes, Services, File Store)
  * Choosing a storage service
  * Resource Management (Quotas, Labels, Billing )
+
+## Day 16: Essential Google Cloud Infrastructure-Core Services
+**Covered :**
+ * Resources Monitoring
+ * StackDriver workspaces
+ * Logging
+ * Tracing
+ * Error Reporting
+ * Debugging
 
 
 
