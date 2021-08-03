@@ -115,6 +115,15 @@
  * Error Reporting
  * Debugging
 
+## Day 17: Elastic Google Cloud Infrastructure-Scaling and Automation
+**Covered :**
+ * Cloud VPN
+ * Cloud Interconnect and Peering
+ * Choosing a Connection
+ * Shared VPC and VPC Peering
+
+
+ 
 
 
 
