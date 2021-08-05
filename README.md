@@ -122,6 +122,17 @@
  * Choosing a Connection
  * Shared VPC and VPC Peering
 
+## Day 18: Getting lazy now 😫
+
+## Day 19: Elastic Google Cloud Infrastructure-Scaling and Automation
+**Covered :**
+ * Load Balancing
+ * Global and Regional load balancers
+ * Managed Instance Groups
+ * HTTP load balancing + Content load balancing
+ * HTTPs load balancing + target HTTPs proxy
+ * SSL certificates + SSL certificate resource
+
 
  
 
