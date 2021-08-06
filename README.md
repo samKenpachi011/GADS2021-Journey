@@ -133,6 +133,21 @@
  * HTTPs load balancing + target HTTPs proxy
  * SSL certificates + SSL certificate resource
 
+## Day 20: Skill IQ Assessment
+![Result](assets/phase1_skilliq.jpg)
+
+**Gaps identified :**
+ * Network Design
+ * Virtual Machines(Compute Engine)
+ * Application Development Services
+ 
+**Strengths identified :**
+ * Data Services
+ * Kubernetes Engine
+ * Logging and monitoring
+
+
+
 
  
 
