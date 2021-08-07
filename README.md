@@ -146,6 +146,17 @@
  * Kubernetes Engine
  * Logging and monitoring
 
+## Day 21: Elastic Google Cloud Infrastructure-Scaling and Automation
+**Covered :**
+ * Global and Regional Load Balacing
+ * SSL proxy load balancing
+ * TCP proxy load balancing
+ * HTTPs load balancing
+ * Network load balancing
+ * Internal TCP//UDP load balancing
+ * Internal HTTPs load balancing
+ * 3 tier architecture for leveraging different load balancers 
+
 
 
 
