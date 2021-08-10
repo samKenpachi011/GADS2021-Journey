@@ -171,6 +171,7 @@
  * Using data services BigQuery, DataFlow, DataProc, DataPrep
  
 **This marks the end to Architecting with Compute Engine** 
+ * Started with Architecting with Google Kubernetes Engine: Foundations (C1) 
 
 
  
