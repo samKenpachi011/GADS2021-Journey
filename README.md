@@ -157,7 +157,20 @@
  * Internal HTTPs load balancing
  * 3 tier architecture for leveraging different load balancers 
 
+## Day 22: Rest day 😫
 
+## Day 23: Rest day 😫
+
+## Day 24: Elastic Google Cloud Infrastructure-Scaling and Automation
+**Covered :**
+ * Infrastructure Automation
+ * Using Deployment manager
+ * Using Terraform
+ * Using the Google Cloud MarketPlace
+ * Using managed services as an alternative to infrastructure automation
+ * Using data services BigQuery, DataFlow, DataProc, DataPrep
+ 
+**This marks the end to Architecting with Compute Engine** 
 
 
  
