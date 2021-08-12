@@ -173,9 +173,22 @@
 **This marks the end to Architecting with Compute Engine** 
  * Started with Architecting with Google Kubernetes Engine: Foundations (C1) 
 
+## Day 25: Architecting with Google Kubernetes Engine: Foundations (C1)
+**Covered :**
+ * Introdution to Kubernetes and it features
+ * Container layers and features
+ * Docker
+ * Container registry (gcr.io)
+ * Cloud Build
+ * kubernetes control plane (kubeApiserver,cloudmanager,etcd, scheduler,controllermanager)
+ * Deployments and services
+ * Migrate for Anthos
 
+## Day 26: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Kubernetes Operations
+ * Using the Kubectl command as a way to manage the internal state of a cluster
  
-
 
 
 
