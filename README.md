@@ -189,8 +189,16 @@
  * Kubernetes Operations
  * Using the Kubectl command as a way to manage the internal state of a cluster
  
+## Day 27: Rest day 😫
 
-
+## Day 28: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Using the Kubectl command for introspection
+ * Using the kubectl get command to list objects and the status of those objects
+ * Using the kubectl decribe command to detailed information about services
+ * Using the kubectl exec command to execute commands inside of a pod
+ * Using the kubectl logs command get console output including error messages
+ * Introduction to deployments,jobs and scaling
 
 
  
