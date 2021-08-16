@@ -200,6 +200,17 @@
  * Using the kubectl logs command get console output including error messages
  * Introduction to deployments,jobs and scaling
 
+## Day 29: Rest day 😫 now I'm just lazy
+
+## Day 30: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Deployments as a way of declaring the state of pods
+ * Creating a deployment manifest file
+ * States of a deploymnt (progressing, complete, failed)
+ * Updating the deployment
+ * Scaling (manually, autoscaler,horizontal-pod-autoscaler object) and handling thrashing 
+
+ 
 
  
 
