@@ -210,6 +210,16 @@
  * Updating the deployment
  * Scaling (manually, autoscaler,horizontal-pod-autoscaler object) and handling thrashing 
 
+## Day 31: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Rolling Updates
+ * Blue/Green Deployment
+ * Canary Deployment
+ * Managing Deployments (pausing,resuming,deleting,monitoring)
+ * Jobs and CronJobs
+
+
+
  
 
  
