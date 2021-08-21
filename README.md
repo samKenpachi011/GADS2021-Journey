@@ -218,10 +218,24 @@
  * Managing Deployments (pausing,resuming,deleting,monitoring)
  * Jobs and CronJobs
 
+## Day 32: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Cluster scaling, using the autoscaler
+ * Node pools,pods, autoscaling best practices,
+ * Controlled placement,control scheduling using the nodeSelector+labels
+ * Node affnitty and anti-affinity,taints and tolerations
+ * Managing node pools
+ * Getting software into clusters using helm(architecture+charts), using yaml to define images from the cloud registry and the google cloud market place
 
 
- 
+## Day 33: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * GKE k8 networking -pod to pod communication
 
- 
+## Day 34: Rest day 😫 
 
-
+## Day 35: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Services (help to give pods a stable name through the changing lifecycle of a pod+ help direct traffic to suitable pods)
+ * Finding a service(Environment variables,Kuber DNS, Istio)
+ * Service types(ClusterIP(internal communication), NodePort(external communication)+ default range(30000 -32767),LoadBalancer)
