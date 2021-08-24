@@ -239,3 +239,24 @@
  * Services (help to give pods a stable name through the changing lifecycle of a pod+ help direct traffic to suitable pods)
  * Finding a service(Environment variables,Kuber DNS, Istio)
  * Service types(ClusterIP(internal communication), NodePort(external communication)+ default range(30000 -32767),LoadBalancer)
+
+## Day 36: Rest day 😫 It's getting hectic.
+
+## Day 37: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Ingress Resource + features (multi regional/cluster, TLS termination,location based load-balancing, multiple ssl certificates)
+ * Container Native load balancing
+ * Network End Group
+ * Network security
+ * Enabling + creating a network policy for clusters
+ * Why use a network policy
+ 
+## Day 38: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Persitent data and storage
+ * Volumes: A way to attach storage to pods/help containers share data
+ * Secrets: Store sensitive information (authentication/authorization data)
+ * StatefulSets: Manage ordered deployment of pod and storage
+ * ConfigMaps: Decouple artifacts from pod definition
+ * Volume Types (configMaps, secrets, emptyDir,NFS, downwardAPI)
+ 
