@@ -260,3 +260,13 @@
  * ConfigMaps: Decouple artifacts from pod definition
  * Volume Types (configMaps, secrets, emptyDir,NFS, downwardAPI)
  
+## Day 39: Architecting with Google Kubernetes Engine: Workloads (C2)
+**Covered :**
+ * Indepth view of volumes , secrets, configMaps, statefulSets
+ * Using volumes, persistent volume, persistent volume claims
+ * Using secrets and secret types
+ * Using a configMap
+ * Using statefulSets
+ *Creating and updating storage abstractions
+
+**This marks the end to Architecting with Google Kubernetes Engine: Workloads (C2)**  
