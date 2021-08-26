@@ -269,4 +269,29 @@
  * Using statefulSets
  *Creating and updating storage abstractions
 
-**This marks the end to Architecting with Google Kubernetes Engine: Workloads (C2)**  
+**This marks the end to Architecting with Google Kubernetes Engine: Workloads (C2)** 
+
+## Day 40: Architecting with Google Kubernetes Engine: Production
+**Covered :**
+ * Authentication and Authorization for access control
+ * Cloud IAM and RBAC, roles and roleBindings
+ * Control plane security and Certificate Authority 
+ * Protecting metadata
+ * Pod Security
+ * Using security context to limit privileges to containers
+ * Creating reusable security contexts by using security policies that can apply to many pods
+ * PodSecurityPolicy and PodSecurityPolicy controller which validates and modifies requests against one or more PodSecurityPolicies
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
