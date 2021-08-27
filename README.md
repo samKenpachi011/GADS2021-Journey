@@ -282,7 +282,14 @@
  * Creating reusable security contexts by using security policies that can apply to many pods
  * PodSecurityPolicy and PodSecurityPolicy controller which validates and modifies requests against one or more PodSecurityPolicies
 
-
+## Day 41: Architecting with Google Kubernetes Engine: Production
+**Covered :**
+ * Logging and Monitoring
+ * Using google clouds operations suite to monitor and manage the availability and performance.
+ * Locate and inspect Kubernetes logs inside the cluster.
+ * Perform forensic analysis of logs using BigQuery and use Stackdriver + Cloud storage for longer retention of logs.
+ * Monitoring performance from different vantage points
+ * Create probes for wellness checks on live application (readiness + liveliness)
 
 
 
