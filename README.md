@@ -291,6 +291,15 @@
  * Monitoring performance from different vantage points
  * Create probes for wellness checks on live application (readiness + liveliness)
 
+## Day 42: Architecting with Google Kubernetes Engine: Production
+**Covered :**
+ * Using Google Cloud Managed Storage services with GKE.
+ * Understanding the full range of google cloud managed	 storage services.
+ * Understanding the pros and cons of storage managed services vs self managed containarized storage.
+ * Using Cloud SQL from within a Kubernetes Application through Cloud SQL Proxy.
+ 
+ 
+ 
 
 
 
