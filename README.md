@@ -299,6 +299,14 @@
  * Using Cloud SQL from within a Kubernetes Application through Cloud SQL Proxy.
  
  
+## Day 43: Architecting with Google Kubernetes Engine: Production 
+**Covered :**
+ * CI/CD background and examples.
+ * Using Cloud Build to create a continuous delivery pipeline.
+ * CI/CD architecture.
+ * Google cloud markteplace CI/CD tools (Jenkins,Spinnaker,CircleCI,Drone,Cloud Build,GitLab CI).
+
+** This marks the end of Architecting with Google Kubernetes Engine: Production **
  
 
 
