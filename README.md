@@ -308,6 +308,14 @@
 
 ** This marks the end of Architecting with Google Kubernetes Engine: Production **
  
+## Day 44: Rest day 😫
+
+## Day 45: Google Cloud Platform Fundamentals
+**Covered :**
+ * GCP fundamentals (themes, philosophies and priciples)
+ * How GCP is different from other cloud provider (networking,pricing,technology)
+ * Service Background/timeline
+ * Getting Started (using the pricing calculator)
 
 
 
