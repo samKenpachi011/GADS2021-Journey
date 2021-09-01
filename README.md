@@ -317,7 +317,13 @@
  * Service Background/timeline
  * Getting Started (using the pricing calculator)
 
-
+## Day 46: Google Cloud Platform Fundamentals
+**Covered :**
+ * Google Cloud Platform building blocks
+ * Common Infrastructure across google
+ * Layering of services
+ * Compute, storage, network
+ * Enabling cloud 3.0
 
 
 
