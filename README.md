@@ -324,7 +324,15 @@
  * Layering of services
  * Compute, storage, network
  * Enabling cloud 3.0
-
+ * **Security and Tools :**
+    * Complexity leads to risk
+	* Googles security capabilties and its approach to security
+	* Insfrastructure Security (data center, hardware, software, employees,storage)
+	* Service to service security model (explicit identity, policy enforcement, secure communication(RPC), user data protection)
+	* Security services -Internet traffic(TLS termination,Network Segmentation,DoS protection,public ip and DNS hosting)
+	* Security Configuration -Service Accounts and IAM
+	* Management and Billing
+	* Developer tooling
 
 
 
