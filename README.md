@@ -334,7 +334,21 @@
 	* Management and Billing
 	* Developer tooling
 
+## Day 47: Google Cloud Platform Fundamentals
+**Covered :**
+ * Cloud 2.0
+ * Transitioning from Cloud 2.0 to Cloud 3.0
+ * Moving from VMs to application and functions
+ * Using policies
+ * SLA'scaling
+ * Task automation
+ * Container Orchestration
+ * Intelligence over data processing
+ * Single state machine mode (model the states and state transitions)
+ * Analytics and integrating ML to other services
 
+**This marks the end of Google Cloud Platform Fundamentals ** 
+ 
 
 
 
