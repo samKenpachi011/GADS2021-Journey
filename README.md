@@ -349,9 +349,18 @@
 
 **This marks the end of Google Cloud Platform Fundamentals ** 
  
+## Day 48: Rest day 😫
 
+## Day 49: Rest day 😫
 
-
+## Day 50: Developing a Google SRE Culture 
+**Covered :**
+ * What is Site Realibility Engineering vs DevOps.
+ * Why Site Realibility Engineering.
+ * The value of SRE to IT operations and ones organization.
+ * Using SLOs to guide business decisions.
+ * looking at the pillars of SRE -> reducing silos, accepting failures and blameless postmortems.
+ 
 
 
  
