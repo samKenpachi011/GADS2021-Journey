@@ -306,7 +306,7 @@
  * CI/CD architecture.
  * Google cloud markteplace CI/CD tools (Jenkins,Spinnaker,CircleCI,Drone,Cloud Build,GitLab CI).
 
-** This marks the end of Architecting with Google Kubernetes Engine: Production **
+** This marks the end of Architecting with Google Kubernetes Engine: Production**
  
 ## Day 44: Rest day 😫
 
@@ -347,7 +347,7 @@
  * Single state machine mode (model the states and state transitions)
  * Analytics and integrating ML to other services
 
-**This marks the end of Google Cloud Platform Fundamentals ** 
+**This marks the end of Google Cloud Platform Fundamentals** 
  
 ## Day 48: Rest day 😫
 
@@ -361,6 +361,18 @@
  * Using SLOs to guide business decisions.
  * looking at the pillars of SRE -> reducing silos, accepting failures and blameless postmortems.
  
-
-
+## Day 51: Rest day 😫
+ 
+## Day 52: Developing a Google SRE Culture 
+**Covered :**
+ * Site Realibility Objectives
+ * Realibility
+ * SLIs Site Realibility Indicators
+ * Breaking down or reducing organizational silos
+ * Pyschological safety
+ * Error budgeting
+ 
+ 
+ 
+ 
  
