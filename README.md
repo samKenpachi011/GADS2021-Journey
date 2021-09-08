@@ -372,6 +372,17 @@
  * Pyschological safety
  * Error budgeting
  
+## Day 53: Developing a Google SRE Culture
+**Covered :**
+ * Making tomorrow better through gradual change.
+ * What CI/CD are, its components and benefts.
+ * What Canary Deployment is and its requirements.
+ * What Design Thinking is and its priciples.
+ * What Toil is and the impact of it once it is excessive.
+ * The value of Automation.
+ 
+ 
+ 
  
  
  
