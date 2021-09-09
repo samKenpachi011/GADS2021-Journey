@@ -381,7 +381,13 @@
  * What Toil is and the impact of it once it is excessive.
  * The value of Automation.
  
- 
+## Day 54: Developing a Google SRE Culture
+**Covered :**
+ * Psychological and resistance to change.
+ * Dealing with resistance to change.
+ * Psychology of change in people.
+ * States of transition.
+ * Connecting to individuals who are resistant to change
  
  
  
