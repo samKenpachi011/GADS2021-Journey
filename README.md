@@ -365,12 +365,12 @@
  
 ## Day 52: Developing a Google SRE Culture 
 **Covered :**
- * Site Realibility Objectives
- * Realibility
- * SLIs Site Realibility Indicators
- * Breaking down or reducing organizational silos
- * Pyschological safety
- * Error budgeting
+ * Site Realibility Objectives.
+ * Realibility.
+ * SLIs Site Realibility Indicators.
+ * Breaking down or reducing organizational silos.
+ * Pyschological safety.
+ * Error budgeting.
  
 ## Day 53: Developing a Google SRE Culture
 **Covered :**
@@ -387,7 +387,22 @@
  * Dealing with resistance to change.
  * Psychology of change in people.
  * States of transition.
- * Connecting to individuals who are resistant to change
+ * Connecting to individuals who are resistant to change.
+ 
+ ## Day 55: Rest day 😫
+ 
+ ## Day 56: Rest day 😫
+ 
+ ## Day 57: Developing a Google SRE Culture
+ **Covered :**
+  * SRE Adoption.
+  * Goal setting for data driven decisions.
+  * Measuring, Monitoring , Tranparency
+  * Bias in the organization's decision making and how to reduce/remove it.
+  * Neccessary skills for SRE and how to implement it.
+  
+** This marks the end on Developing a Google SRE Culture.**
+  
  
  
  
