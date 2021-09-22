@@ -402,7 +402,14 @@
   * Neccessary skills for SRE and how to implement it.
   
 ** This marks the end on Developing a Google SRE Culture.**
-  
+
+## Day 67: Returning after " The blib "
+**Covered :**
+ * Pub/Sub QwikStart
+ * Perform Foundational Infrastructure Tasks Challenge lab
+
+
+
  
  
  
