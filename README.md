@@ -381,7 +381,7 @@
  * What Toil is and the impact of it once it is excessive.
  * The value of Automation.
  
-## Day 54: Developing a Google SRE Culture
+## Day 54: Developing a Google SRE Culture.
 **Covered :**
  * Psychological and resistance to change.
  * Dealing with resistance to change.
@@ -393,7 +393,7 @@
  
  ## Day 56: Rest day 😫
  
- ## Day 57: Developing a Google SRE Culture
+ ## Day 57: Developing a Google SRE Culture.
  **Covered :**
   * SRE Adoption.
   * Goal setting for data driven decisions.
@@ -408,9 +408,12 @@
  * Pub/Sub QwikStart
  * Perform Foundational Infrastructure Tasks Challenge lab
 
+## Day 78: 😫 I have to be honest I have been lazy during the past days.
+**Starting PHASE 2 thus this is day 1 of learning phase2: Networking in Google Cloud: Defining and Implementing Networks**
+**Covered :**
+ * Google Cloud VPC Networking Fundamentals.
+ * Looked at Projects, networks, subnetworks, IP addresses
 
-
- 
  
  
  
