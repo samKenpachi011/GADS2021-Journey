@@ -407,14 +407,46 @@
 **Covered :**
  * Pub/Sub QwikStart
  * Perform Foundational Infrastructure Tasks Challenge lab
+ 
+## Day 68: Rest day 😫 
+
+## Day 69: Rest day 😫 
+
+## Day 70: Rest day 😫 
+
+## Day 71: Rest day 😫 
+
+## Day 72: Rest day 😫 
+
+## Day 73: Rest day 😫 
+
+## Day 74: Rest day 😫 
+
+## Day 75: Rest day 😫 
+
+## Day 76: Rest day 😫 
+
+## Day 77: Rest day 😫 
 
 ## Day 78: 😫 I have to be honest I have been lazy during the past days.
 **Starting PHASE 2 thus this is day 1 of learning phase2: Networking in Google Cloud: Defining and Implementing Networks**
 **Covered :**
  * Google Cloud VPC Networking Fundamentals.
  * Looked at Projects, networks, subnetworks, IP addresses
+ * Routes
+ * Firewall Rules
+ * NICs-Network Interface Controllers
+ * Multiple network interfaces
+ * Working with Multiple VPC networks
+ * Lab: Getting Started with VPC Networking
 
- 
- 
+ ## Day 79: Networking in Google Cloud: Defining and Implementing Networks
+ **Covered :**
+  * Lab: Working with multiple VPC networks
+  * Controlling Access to VPC Networks
+  * Overview of Cloud Identity and Access management
+  * IAM members, roles and custom roles
+  * Firewall rules (sources and targets)
+  * Lab: Controlling Access to VPC Networks
  
  
