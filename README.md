@@ -440,7 +440,7 @@
  * Working with Multiple VPC networks
  * Lab: Getting Started with VPC Networking
 
- ## Day 79: Networking in Google Cloud: Defining and Implementing Networks
+## Day 79: Networking in Google Cloud: Defining and Implementing Networks
  **Covered :**
   * Lab: Working with multiple VPC networks
   * Controlling Access to VPC Networks
@@ -448,5 +448,11 @@
   * IAM members, roles and custom roles
   * Firewall rules (sources and targets)
   * Lab: Controlling Access to VPC Networks
- 
+  
+## Day 80: Networking in Google Cloud: Defining and Implementing Networks
+**Covered :**
+ * Shared VPC as central approach to multi project networking.
+ * Share VPC roles (organizationAdmin,sharedVPCAdmin,serviceProjectAdmin)
+ * Peering-VPCP allows private RFC 1918 connectivity across 2 VPC network regardless of where it comes from the organization or project. 
+ * Lab: Configuring VPC Network Peering
  
