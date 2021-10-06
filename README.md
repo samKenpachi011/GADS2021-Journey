@@ -453,6 +453,15 @@
 **Covered :**
  * Shared VPC as central approach to multi project networking.
  * Share VPC roles (organizationAdmin,sharedVPCAdmin,serviceProjectAdmin)
- * Peering-VPCP allows private RFC 1918 connectivity across 2 VPC network regardless of where it comes from the organization or project. 
+ * Peering-VPCNP allows private RFC 1918 connectivity across 2 VPC network regardless of where it comes from the organization or project. 
+ * Peering with a Shared VPC
  * Lab: Configuring VPC Network Peering
- 
+
+## Day 81: Networking in Google Cloud: Defining and Implementing Networks
+**Covered :**
+ * Load Balancing
+ * Global and Regional LoadBalancers
+ * HTTP(s) Load Balancing
+ * Managed Instance Groups
+ * Clour Armor
+ * Cloud CDN + Caching with CDN 
