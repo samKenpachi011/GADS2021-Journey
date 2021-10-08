@@ -477,3 +477,4 @@
  * Network Load Balancing
  * Internal TCP/UDP LoadBalancing
  * Internal HTTPs
+ * Lab: Configuring an HTTP Load Balancer
