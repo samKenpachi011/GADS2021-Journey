@@ -465,3 +465,15 @@
  * Managed Instance Groups
  * Clour Armor
  * Cloud CDN + Caching with CDN 
+ 
+## Day 82: Rest Day
+ 
+## Day 83: Networking in Google Cloud: Defining and Implementing Networks
+**Covered :**
+ * Lab: Configuring an HTTP Load Balancer with Cloud Armor
+ * Load Balancing
+ * Global vs Regional vs Internal LoadBalancers
+ * HTTPs Load Balancing, SSL Proxy, TCP Proxy
+ * Network Load Balancing
+ * Internal TCP/UDP LoadBalancing
+ * Internal HTTPs
