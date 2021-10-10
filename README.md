@@ -478,3 +478,28 @@
  * Internal TCP/UDP LoadBalancing
  * Internal HTTPs
  * Lab: Configuring an HTTP Load Balancer
+
+**End of Networking in Google Cloud: Defining and Implementing Networks.** 
+ 
+## Day 84: Qwiklabs
+**Covered :**
+ * Build and Secure Networks Quest -Challenge Lab
+ * Learn to earn challenge : Data 
+
+## Day 85: Managing Security in Google Cloud
+**Covered :**
+ * Security in GCP
+ * Security layers
+ * Data Protection
+ * VPC-Virtual Private Cloud
+ * Operation Monitoring
+ * Regulatory Compliance
+ * Shared Responsibility
+ * Data Access and Transparency
+
+
+
+
+
+
+
