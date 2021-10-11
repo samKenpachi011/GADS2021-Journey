@@ -497,7 +497,12 @@
  * Shared Responsibility
  * Data Access and Transparency
 
-
+## Day 86: Managing Security in Google Cloud
+**Covered :**
+ * Cloud Identity as a Identity as a Service(IDaaS) solution
+ * Google Direction Sync -provisioning/deprovisioning of users
+ * Google's Authentication + SAML2 + SSO(single sign on)
+ * Best practices (having 2factor authentication, having max of 3 organization admins, having groups to grant roles and avoiding managing permissions for single users)
 
 
 
