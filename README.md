@@ -504,7 +504,17 @@
  * Google's Authentication + SAML2 + SSO(single sign on)
  * Best practices (having 2factor authentication, having max of 3 organization admins, having groups to grant roles and avoiding managing permissions for single users)
 
+## Day 87: Cousera Course
+**Covered : **
+ * Digital transformation
 
+## Day 88: Cousera Course
+**Covered : **
+ * Innovating with Data
+ * The Value of Data
+ * Migrating Data
+ * Data Solutions on Google Cloud
+ * Lab: VPC network peering
 
 
 
