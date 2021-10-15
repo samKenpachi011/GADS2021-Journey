@@ -515,6 +515,21 @@
  * Migrating Data
  * Data Solutions on Google Cloud
  * Lab: VPC network peering
+ 
+## Day 89: Cousera Course
+**Covered : **
+ * Innovating with AI/ML
+ * Considerations for data quality
+ * Data in the business
+ * Infrastructure Modernization
+ * Application Modernization + Migrating to the Cloud
+ * Open Source in the cloud
+ * Leveraging APIs
 
+## Day 89: Cousera Course
+**Covered : **
+ * Security and Operations in the Cloud
+ * Cost management in the cloud + TCO-Total cost of ownership
+ * Best Practices for cost management
 
 
